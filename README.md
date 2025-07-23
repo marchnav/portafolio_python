@@ -52,6 +52,8 @@ No requiere librerías externas, excepto en algunos casos donde se usa `json` y 
    git clone https://github.com/tu-usuario/portafolio-python.git
    cd portafolio-python
 
-## 🤝 Autor
-Marcelo Navarrete
-Desarrollador en formación
+### 👨🏻‍💻Autor
+**Marcelo Navarrete Y** 🚀  
+🔧Desarrollador FullStack in progress ... 
+🔋 Progreso: ➂➈ %
+[████████░░░░░░░░░░░░░░░░░░░░░░░░░]
